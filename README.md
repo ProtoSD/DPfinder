@@ -1,7 +1,7 @@
 # DPfinder
 Finds "Dead Posts" in a VBulletin Forum. Dead Posts are posts with dead links.
 
-DPfinder generates and HTML report which is a summary of the posts with dead links and a link back to the offending post so moderators and admins can edit/delete/move the post.
+DPfinder generates an HTML report which is a summary of the posts with dead links and a link back to the offending post so moderators and admins can edit/delete/move that post.
 
 It saves time by finding the posts for you instead of you having to go thru pages of threads, open each thread, and go thru pages of posts. You run it from the command line and give it the URL for a page of threads, or for and individual thread.
 
